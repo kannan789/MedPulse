@@ -1,0 +1,6 @@
+{
+  "name": "MedPulse EHR - Doctor Practice & Patient Records",
+  "description": "A HIPAA-compliant clinical management portal for physicians to manage daily appointments, patient health records, e-prescriptions, and automated patient reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
